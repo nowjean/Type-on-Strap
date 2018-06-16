@@ -18,7 +18,7 @@ theme_settings:
      <p>Under Construction</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   SAMSUNG SDS Engineer
+   SW Engineer from SAMSUNG SDS
 
   # Icons
   rss: false  # Make sure you created a feed.xml with feed.xml layout
