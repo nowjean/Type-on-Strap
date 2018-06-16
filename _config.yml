@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: 
 url: "https://nowjean.github.io"
-title: 김은비  # site's title
+title: NWJ  # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
