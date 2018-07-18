@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blogging with title1111
+title: minikube trouble shooting
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
-# I am a BIG title
+# virtualbox error
 
 mac os에 minikube 설치 시 virtualbox 오류가 날 때가 있다.
-사용하는 macOS는 High Sierra v10.13.5버전이고 kubernetes 공홈 가이드 대로 설치하면, 아래와 같은 virtualbox 오류가 난다. 
+사용하는 macOS는 High Sierra v10.13.5이고 kubernetes 공홈 가이드 대로 설치하면, 아래와 같은 virtualbox 오류가 난다. 
 
 This is a well known VirtualBox bug. You might want to uninstall it and reinstall at least version 5.0.12 that is is supposed to fix this issue
 
