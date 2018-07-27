@@ -1,7 +1,7 @@
 ---
 layout: post
 title: minikube trouble shooting
-tags: [Test, Ipsum, Markdown, Portfolio]
+tags: [minikube, kubernetes, VirtualBox, 5.0.12]
 ---
 
 # virtualbox error
