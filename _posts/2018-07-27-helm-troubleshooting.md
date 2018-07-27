@@ -2,6 +2,7 @@
 layout: post
 title: helm trouble shooting
 feature-img: assets/img/pexels/helm-trouble.jpeg
+thumbnails: assets/img/pexels/helm-trouble.jpeg
 tags: [helm, kubernetes, no available release name found, helm install]
 ---
 
