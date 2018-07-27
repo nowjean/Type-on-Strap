@@ -8,7 +8,7 @@ description: "Stupid KEB" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: NWJ # blog's title
+  title: Just Do It! # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -18,7 +18,7 @@ theme_settings:
      <p>POST</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   SW Engineer from SAMSUNG SDS
+   SW Engineer at SAMSUNG SDS
 
   # Icons
   rss: false  # Make sure you created a feed.xml with feed.xml layout
