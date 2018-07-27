@@ -7,7 +7,7 @@ tags: [helm, kubernetes, no available release name found, helm install]
 
 # Error: no available release name found
 
-![image](https://github.com/nowjean/nowjean.github.io/blob/master/assets/img/thumbnails/helm-trouble.jpeg)
+![image](assets/img/pexels/helm-trouble.jpeg)
 
 
 최초로 helm 설치 후 helm list 나  helm install 명령어를 사용하면 위와 같은 에러가 날 때가 있다.
