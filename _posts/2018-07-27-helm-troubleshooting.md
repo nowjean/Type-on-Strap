@@ -1,6 +1,6 @@
 ---
 layout: post
-title: minikube trouble shooting
+title: helm trouble shooting
 tags: [helm, kubernetes, no available release name found, helm install]
 ---
 
