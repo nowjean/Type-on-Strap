@@ -19,4 +19,4 @@ This is a well known VirtualBox bug. You might want to uninstall it and reinstal
 그런데 또 설치를 하다보면 설치 오류가 난다.
 이 때는 환경설정 -> 보안 및 개인 정보 보호로 들어가면 새로뜨는 창에 "oracle ~~~ 소프트웨어 차단되어 blah~blah~" 메시지가 보인다. 그 옆에 허용버튼을 누르면 설치가 완료 되고, minikube를 다시 실행하면 된다.
 
-> minikube start --vm-driver=hyperkit
+> $ minikube start --vm-driver=hyperkit
